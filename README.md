@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there, I'm MageOverdosed 👋
+
+- Aspiring **Cybersecurity Specialist** and **AI/ML Engineer** building skills and a practical portfolio  
+- Focused on **BlackArch Linux, Python, APIs, DSA, and Machine Learning**, with the goal of combining security expertise with AI-driven automation  
+- Passionate about breaking systems, understanding how they work, and automating processes through code
 
 <!--
 **mageoncrack/mageoncrack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
