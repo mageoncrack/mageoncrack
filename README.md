@@ -1,4 +1,4 @@
-## Hi there, I'm MageOverdosed 👋
+## Hi there, I'm Mage 👋
 
 - Aspiring **Cybersecurity Specialist** and **AI/ML Engineer** building skills and a practical portfolio  
 - Focused on **BlackArch Linux, Python, APIs, DSA, and Machine Learning**, with the goal of combining security expertise with AI-driven automation  
