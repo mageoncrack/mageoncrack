@@ -1,9 +1,32 @@
-## Yo, I'm Mage 👋
+# Yoo, I'm Mage.Dev 👋
 
-- Aspiring **Cybersecurity Specialist** and **AI/ML Engineer** building skills and a practical portfolio  
-- Focused on **BlackArch Linux, Python, APIs, DSA, and Machine Learning**, with the goal of combining security expertise with AI-driven automation  
-- Passionate about breaking systems, understanding how they work, and automating processes through code
-- IDs -> Discord : mageoverdosed
+**Aspiring Cybersecurity Specialist & AI/ML Engineer** building hands-on skills and a practical portfolio.  
+I like breaking systems, figuring out how they tick, and automating stuff through code.  
+
+## ⚡ What I’m Into
+- **BlackArch Linux** — hacking & security labs  
+- **Python, C/C++, Java, JavaScript** — building scripts, apps, and automation  
+- **DSA** — I love thinking in algorithms & solving problems  
+- **Web & APIs** — poking at apps, learning the backend  
+- **Machine Learning** — using AI to make systems smarter
+
+## 🛠️ Skills & Tools
+Python | C/C++ | Java | JavaScript | Bash/Shell | SQL | Linux | DSA | BlackArch | APIs | ML
+
+## 🚀 Projects / Highlights
+- Cybersecurity scripts, pentesting labs, and automation tools  
+- DSA solutions & algorithm practice in multiple languages  
+- Small AI/ML projects integrating data & automation  
+
+## 📫 Contact
+- Discord: **mageoverdosed**  
+- GitHub: **mageoncrack**
+- Instagram: **mageoncrack**
+
+---
+
+> Always learning, always coding, always breaking stuff to fix it better.
+
 <!--
 **mageoncrack/mageoncrack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
