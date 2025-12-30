@@ -1,31 +1,38 @@
 # Yoo, I'm Mage.Dev 👋
 
-**Aspiring Cybersecurity Specialist & AI/ML Engineer** building hands-on skills and a practical portfolio.  
-I like breaking systems, figuring out how they tick, and automating stuff through code.  
+**Aspiring Cybersecurity Specialist (Offensive & Defensive) & AI/ML Engineer** building hands-on skills and a practical portfolio.  
+I like breaking systems, figuring out how they tick, **detecting how they break**, and automating stuff through code.
 
 ## ⚡ What I’m Into
-- **BlackArch Linux** — hacking & security labs  
-- **Python, C/C++, Java, JavaScript** — building scripts, apps, and automation  
-- **DSA** — I love thinking in algorithms & solving problems  
-- **Web & APIs** — poking at apps, learning the backend  
-- **Machine Learning** — using AI to make systems smarter
+- **BlackArch Linux** — offensive security, pentesting & adversary labs  
+- **Blue Team & Defense** — logs, detection, incident response mindset  
+- **Python, C/C++, Java, JavaScript** — exploits, tooling, automation & backend  
+- **DSA** — thinking in algorithms, efficiency, and problem-solving  
+- **Web & APIs** — attacking, securing, and understanding backend systems  
+- **Machine Learning** — using AI for detection, automation, and smarter security
 
 ## 🛠️ Skills & Tools
-Python | C/C++ | Java | JavaScript | Bash/Shell | SQL | Linux | DSA | BlackArch | APIs | ML
+Python | C/C++ | Java | JavaScript | Bash/Shell | SQL | Linux | DSA |  
+BlackArch | APIs | ML | Pentesting | Defensive Security | Automation
+
+## 🧠 Security Focus (Purple Team)
+- **Offensive**: recon, exploitation, scripting, understanding attacker behavior  
+- **Defensive**: detection logic, logs, system visibility, response thinking  
+- **Mindset**: attack → detect → improve → repeat  
 
 ## 🚀 Projects / Highlights
-- Cybersecurity scripts, pentesting labs, and automation tools  
+- Cybersecurity scripts, **pentesting & defensive labs**, and automation tools  
 - DSA solutions & algorithm practice in multiple languages  
-- Small AI/ML projects integrating data & automation  
+- Small AI/ML projects integrating **security data, automation, and analysis**
 
 ## 📫 Contact
 - Discord: **mageoverdosed**  
-- GitHub: **mageoncrack**
+- GitHub: **mageoncrack**  
 - Instagram: **mageoncrack**
 
 ---
 
-> Always learning, always coding, always breaking stuff to fix it better.
+> Always learning, always coding, always breaking stuff — **and learning how to detect and fix it better.**
 
 <!--
 **mageoncrack/mageoncrack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,4 +48,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
